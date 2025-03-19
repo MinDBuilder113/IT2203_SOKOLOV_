@@ -8,6 +8,6 @@ repository made for development
 
 
 
--1
--2
--3
+- 1
+- 2
+- 3
